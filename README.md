@@ -12,13 +12,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-##About Me
+###About Me
+I'm a software engineer based in Minneapolis.
 
 - 🔭 I’m currently working on Chronos - an open source dev tool to track the health metrics and web traffic of your applications.
-- 📫 How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- 
+- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-holmgren)
 - 😄 Pronouns: she/her
-
-
+- 🎃 lover of halloweeen 🎃 
 <!--
 **ekh88/ekh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
