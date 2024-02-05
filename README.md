@@ -17,7 +17,7 @@ I'm a software engineer based in Minneapolis.
 
 - 🔭 I’m currently working on Chronos - an open source dev tool to track the health metrics and web traffic of your applications.
 - 
-- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-holmgren)
+- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Elsa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-holmgren)
 - 😄 Pronouns: she/her
 - 🎃 lover of halloweeen 🎃 
 <!--
